@@ -1,0 +1,9 @@
+.caixa{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.459);
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
